@@ -1,4 +1,4 @@
-<h2> Hi, I'm Minxuan Jin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Minxuan Jin! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em> A first-year CS graduate student at Georgia Tech!
 
@@ -7,14 +7,14 @@
 
 [![Linkedin: Minxuan Jin](https://img.shields.io/badge/-MinxuanJin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimberley-minxuan-jin-48a306325/)](https://www.linkedin.com/in/kimberley-minxuan-jin-48a306325/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const minxuan = {
   pronouns: "she" | "her",
   technologies: {
         frontEnd: {
-            js: ["Vue.js"],
+            js: ["Vue.js","React.js"],
         },
         backEnd: {
             java: ["Spring Boot", "Spring Cloud"],
@@ -28,7 +28,7 @@ const minxuan = {
         cloudServices: {
             aws: ["EC2", "S3", "RDS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "redis"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "Redis"],
         generativeAI: ["LangChain","RAG"],
     },
   architecture: ["microservices", "event-driven", "design system pattern"],
