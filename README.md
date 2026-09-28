@@ -1,11 +1,11 @@
 <h2> Hi, I'm Minxuan Jin! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> A first-year CS graduate student at Georgia Tech!
+<p><em> A second-year CS graduate student at Georgia Tech!
 
   Feel free to connect with me at mjin93@gatech.edu.
 </em></p>
 
-[![Linkedin: Minxuan Jin](https://img.shields.io/badge/-MinxuanJin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimberley-minxuan-jin-48a306325/)](https://www.linkedin.com/in/kimberley-minxuan-jin-48a306325/)
+[![Linkedin: Minxuan Jin](https://img.shields.io/badge/-MinxuanJin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minxuanjin/)](https://www.linkedin.com/in/minxuanjin/)
 
 ### A little more about me...  
 
