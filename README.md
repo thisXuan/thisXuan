@@ -7,7 +7,7 @@ A second-year CS graduate student at Georgia Tech!
 <br>
 </em></p>
 
-👋 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/minxuanjin/) or [Email](mjin93@gatech.edu).
+👋 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/minxuanjin/) or [Email](mailto:mjin93@gatech.edu)!
 
 ### 💼 Professional Experience
 
@@ -43,40 +43,14 @@ const minxuan = {
       aws: ["EC2", "S3", "RDS"],
     },
 
-    databases: [
-      "PostgreSQL",
-      "MongoDB",
-      "SQLite",
-      "MySQL",
-      "Redis"
-    ],
+    databases: ["PostgreSQL","MongoDB","SQLite","MySQL","Redis"],
 
-    distributedSystems: [
-      "Kafka",
-      "RabbitMQ",
-      "Elasticsearch"
-    ],
+    distributedSystems: ["Kafka","RabbitMQ","Elasticsearch"],
 
-    generativeAI: [
-      "LangChain",
-      "RAG",
-      "AI Agents",
-      "Tool Calling"
-    ],
+    generativeAI: ["LangChain","RAG","AI Agent Harness"],
   },
 
-  architecture: [
-    "Microservices",
-    "Event-Driven Architecture",
-    "Design Patterns"
-  ],
-
-  interests: [
-    "Backend Engineering",
-    "Distributed Systems",
-    "Database Systems",
-    "AI Applications & Agents"
-  ],
+  interests: ["Distributed Systems","Database Systems","AI Applications & Agents"],
 }
 ```
 
